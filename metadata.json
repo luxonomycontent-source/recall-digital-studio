@@ -1,0 +1,7 @@
+{
+  "name": "RECALL DIGITAL STUDIO",
+  "description": "RECALL DIGITAL STUDIO provides professional photography, videography and creative digital services with premium presentation and affordable packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
